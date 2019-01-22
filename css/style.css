@@ -1,0 +1,57 @@
+
+/* CSS Document */
+
+body {
+	margin: 0px;
+	background: url("../img/symphony.png") repeat;
+	/* Background image from http://subtlepatterns.com/ */
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	color: #696969;
+}
+
+h1{
+	color: #FF6347;
+}
+
+h2{
+	color: #FF8C69;
+}
+
+a.email{
+	color: #8fbc8f;
+	text-decoration: none;
+}
+
+h1.name{
+	margin-bottom: 0px;
+	border: 10px solid #8fbc8f;
+	padding:30px;
+	display:inline;
+}
+
+#wrapper{
+	margin-top: 150px;
+}
+
+h2.title{
+	margin-top: 40px;
+  padding: 30px;
+}
+
+.contact-number{
+	color: #8fbc8f;
+}
+
+.quote{
+	font-style:italic;
+	font-size:20px;
+	margin-top:50px;
+	line-height:30px;
+}
+
+.line-break{
+	border: 1px solid grey;
+  margin: 30px auto;
+  width: 50%;
+}
